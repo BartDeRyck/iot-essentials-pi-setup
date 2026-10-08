@@ -16,8 +16,8 @@ Eén script om een verse installatie van Raspberry Pi OS (Debian Bookworm) direc
 Open een terminal (lokaal of via SSH) en voer uit:
 
 ```bash
-git clone https://github.com/<jouw-username>/<jouw-repo>.git
-cd <jouw-repo>
+git clone https://github.com/BartDeRyck/iot-essentials-pi-setup.git
+cd iot-essentials-pi-setup
 chmod +x setup.sh
 ./setup.sh
 ```
