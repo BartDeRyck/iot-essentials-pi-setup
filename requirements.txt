@@ -1,0 +1,17 @@
+# Adafruit & Hardware Abstraction
+adafruit-python-shell
+Adafruit-Blinka
+
+# Raspberry Pi 5 GPIO & RP1 chip drivers
+gpiod
+lgpio
+
+# MQTT & I2C Sensoren (Module 4)
+paho-mqtt
+adafruit-circuitpython-bmp280
+
+# Displays & Audio (Module 6)
+adafruit-circuitpython-ssd1306
+python-mpd2
+Pillow
+

@@ -1,0 +1,16 @@
+# Database (Module 8a)
+mariadb
+
+# Notificaties (Module 8b)
+vonage
+
+# Spraak & Audio (Module 8c)
+vosk
+pyaudio
+sounddevice
+
+# Computer Vision & AI (Module 8c)
+pytesseract
+ultralytics
+ncnn
+
